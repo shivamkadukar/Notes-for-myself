@@ -109,7 +109,7 @@ for i in range(0,10):
 ```
 ## Tables
 
-| Contributor   | Email                 |
+| Contributor   |       Email           |
  --------------- -----------------------
 | Shivam Kadukar| shivamk2802@gmail.com |
 
