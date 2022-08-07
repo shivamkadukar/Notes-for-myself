@@ -6,7 +6,7 @@ This repository contains notes, code snippet and syntax, installation process or
 ## Aim -
 ------
 
-The aim of creating this repository is to have all the necessary information at one place. These is created with the intention of getting the information in one place to save the time of visiting websites and reading documentation when I come across a problem which I have already tackled earlier.
+The aim of creating this repository is to have all the necessary information at one place. These is created with the intention of getting the information in one place to save the time of visiting websites and reading documentation when I come across a problem which I have already tackled earlier. The repo is not intended to for adding course notes but only for the very important info for which i had to look over various websites an trial and errors to get thing doen correctly.
 
 ## __Information_about_file_nomenclature__ -
 -------------------------------------------
