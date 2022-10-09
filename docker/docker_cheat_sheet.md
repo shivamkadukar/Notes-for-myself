@@ -1,4 +1,4 @@
-## Managing Images and containers
+## Building and Running containers
 
 1. list all the running containers
 
@@ -75,3 +75,30 @@ docker run -i -t <image id>
 ```bash
 docker start -a -i <contianer name>
 ```
+
+## Maintaining Images and containers
+
+1. Removing a container
+> cannot removing a running container need to be stopped first
+
+```bash
+docker rm <container name/ multiple containers>
+```
+
+2. Removing images
+> need to remove the containers using those images need to be removed first (stopped and running)
+
+```bash
+docker rmi <image id>
+```
+
+3. Automatically remove container when stopped
+
+```bash
+docker run -p <port info> --rm <image id>
+```
+
+
+
+
+
