@@ -50,15 +50,13 @@ docker start -a <container name>
 
 8. attach to container running in detached mode
 
-```
-bash
+```bash
 docker attach <conatiner name>
 ```
 
 9. fetch logs printed by a container (shows all past logs)
 
-```
-bash
+```bash
 docker logs <container name>
 ```
 
@@ -68,4 +66,12 @@ docker logs <container name>
 docker logs -f <contianer name>
 ```
 
+11. Running a container in interactive mode with a termina
+```bash 
+docker run -i -t <image id>
+```
 
+12. Restarting a container in attached mode with interactive mode
+```bash
+docker start -a -i <contianer name>
+```
