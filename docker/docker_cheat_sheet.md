@@ -46,6 +46,7 @@ docker run -p <port info> -d <image id>
 
 ```bash
 docker start -a <container name>
+```
 
 8. attach to container running in detached mode
 
